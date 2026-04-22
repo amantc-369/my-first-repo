@@ -1,2 +1,5 @@
 nidalking
 nnidhal flop
+creating a simple file
+file contails 100 words
+hello world
